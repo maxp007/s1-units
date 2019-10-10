@@ -59,7 +59,6 @@ export const sortByItemNames = (order1, order2) => {
 				result = -1;
 				return;
 			}
-
 			if (item > items2[i]) {
 				result = 1;
 				return;

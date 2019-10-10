@@ -26,4 +26,8 @@ describe('App component', () => {
 
     expect(wrapper.state('sortType')).toEqual(sortTypes.COUNT);
   });
+
 });
+
+
+
